@@ -1,6 +1,6 @@
 # Netflix-Movies-and-TV-Show-Analysis (Python)
 
-🧾 Project Overview
+# 🧾 Project Overview
 
 This project performs a comprehensive data analysis of Netflix’s movie and TV show catalog using Python.
 The goal is to uncover patterns, trends, and insights about content distribution, IMDb ratings, and audience engagement.
@@ -11,7 +11,7 @@ The analysis includes:
 - Univariate, bivariate, and multivariate exploration
 - Data visualization using Matplotlib and Seaborn
 
-📂 Dataset
+# 📂 Dataset
 
 File: Netflix TV Shows and Movies.csv
 Source: Kaggle
@@ -26,48 +26,13 @@ The dataset includes the following key attributes:
 - imdb_score – IMDb rating
 - imdb_votes – Number of IMDb votes
 
-⚙️ Tools & Libraries
+# ⚙️ Tools & Libraries
 
 - Python 3.x
 - pandas – Data manipulation and summarization
 - matplotlib & seaborn – Visualization and exploration
 
-🔍 Analysis Performed
-
-1️⃣ Pie Charts
-
-- Distribution of Movies vs TV Shows
-- Distribution of Age Certifications (separately for Movies and TV Shows)
-
-2️⃣ Bar Plots
-
-- Average IMDb Votes vs Type (Movies vs TV Shows)
-- Average IMDb Score vs Type (Movies vs TV Shows)
-- Average IMDb Score by Age Certification
-- Average IMDb Votes by Age Certification
-
-3️⃣ Box Plot
-
-- Comparison of Runtime distributions for Movies and TV Shows
-
-4️⃣ Histogram
-
-- IMDb Score Distribution — IMDb score vs number of titles
-
-5️⃣ Line Plot
-
-- Average IMDb Score by Release Year for Movies and TV Shows
-
-6️⃣ Scatter Plots
-
-- IMDb Score vs Runtime (Movies & TV Shows separately)
-- IMDb Score vs IMDb Votes (Movies & TV Shows separately)
-
-7️⃣ Correlation Heatmap
-
-- Visualizing correlations between numeric features like runtime, imdb_score, imdb_votes, and release_year
-
-📈 Key Visualizations
+# 📈 Key Visualizations
 
 - 🍕 Pie Chart: Number of Movies vs TV Shows
 - 🧁 Pie Charts: Age certification distributions for Movies and TV Shows
@@ -82,7 +47,7 @@ The dataset includes the following key attributes:
   - IMDb Score vs IMDb Votes
 - 🔥 Correlation Heatmap: Relationship among key numeric variables
 
-🧠 Key Insights
+# 🧠 Key Insights
 
 - Movies dominate Netflix’s catalogue, nearly twice as many as TV Shows.
 - Mature content (R, TV-MA) is most common, showing Netflix’s focus on adult audiences.
@@ -93,7 +58,7 @@ The dataset includes the following key attributes:
 - High-rated titles attract more votes, confirming engagement clusters around quality content.
 = No strong linear correlations found — suggesting more complex, non-linear relationships.
 
-💡 Recommendations / Next Steps
+# 💡 Recommendations / Next Steps
 
 - Genre-Level Analysis: Identify which genres consistently achieve high IMDb scores.
 - Time-Based Trends: Investigate rating drops post-2010 and their link to Netflix Originals.
