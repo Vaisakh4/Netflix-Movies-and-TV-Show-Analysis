@@ -2,7 +2,7 @@
 
 # 🧾 Project Overview
 
-This project performs a comprehensive data analysis of Netflix’s movie and TV show catalog using Python.
+This project performs a comprehensive data analysis of Netflix’s movie and TV show catalogue using Python.
 The goal is to uncover patterns, trends, and insights about content distribution, IMDb ratings, and audience engagement.
 
 The analysis includes:
@@ -54,9 +54,9 @@ The dataset includes the following key attributes:
 - TV shows have slightly higher average IMDb scores, while movies receive more total votes.
 - Average IMDb rating: 6.53 (median 6.6), showing good but not exceptional content quality.
 = Ratings have declined post-2010, possibly due to content saturation or changing audience preferences.
-- Runtime vs Rating: weak positive correlation — longer titles tend to perform marginally better.
+- Runtime vs Rating: weak positive correlation, longer titles tend to perform marginally better.
 - High-rated titles attract more votes, confirming engagement clusters around quality content.
-= No strong linear correlations found — suggesting more complex, non-linear relationships.
+= No strong linear correlations found, suggesting more complex and non-linear relationships.
 
 # 💡 Recommendations / Next Steps
 
