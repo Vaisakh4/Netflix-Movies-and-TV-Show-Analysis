@@ -32,6 +32,16 @@ The dataset includes the following key attributes:
 - pandas – Data manipulation and summarization
 - matplotlib & seaborn – Visualization and exploration
 
+## 📊 Repository Contents
+
+This repository includes the following files:
+| File                               | Description                                                      |
+| ---------------------------------- | ---------------------------------------------------------------- |
+| `README.md`                        | Project documentation and insights summary                       |
+| `Netflix_Data_Analysis.ipynb`      | Jupyter Notebook containing the full analysis and visualizations |
+| `Netflix TV Shows and Movies.csv`  | Dataset used for analysis                                        |
+
+
 ## 📈 Key Visualizations
 
 - 🍕 Pie Chart: Number of Movies vs TV Shows
